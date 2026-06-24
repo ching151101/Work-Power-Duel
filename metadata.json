@@ -1,0 +1,6 @@
+{
+  "name": "Work & Power Duel",
+  "description": "An interactive physics PvP game for students to master Mechanical Work and Power concepts through active building site competition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
